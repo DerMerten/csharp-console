@@ -1,0 +1,7 @@
+C:\Users\marte\OneDrive - berufskolleg-rheine.de\Schule\IA2B\Software\1. Halbjahr\C#\2_ConBMI-Rechner\ConBMI-Rechner\bin\Debug\ConBMI-Rechner.exe.config
+C:\Users\marte\OneDrive - berufskolleg-rheine.de\Schule\IA2B\Software\1. Halbjahr\C#\2_ConBMI-Rechner\ConBMI-Rechner\bin\Debug\ConBMI-Rechner.exe
+C:\Users\marte\OneDrive - berufskolleg-rheine.de\Schule\IA2B\Software\1. Halbjahr\C#\2_ConBMI-Rechner\ConBMI-Rechner\bin\Debug\ConBMI-Rechner.pdb
+C:\Users\marte\OneDrive - berufskolleg-rheine.de\Schule\IA2B\Software\1. Halbjahr\C#\2_ConBMI-Rechner\ConBMI-Rechner\obj\Debug\ConBMI-Rechner.csproj.AssemblyReference.cache
+C:\Users\marte\OneDrive - berufskolleg-rheine.de\Schule\IA2B\Software\1. Halbjahr\C#\2_ConBMI-Rechner\ConBMI-Rechner\obj\Debug\ConBMI-Rechner.csproj.CoreCompileInputs.cache
+C:\Users\marte\OneDrive - berufskolleg-rheine.de\Schule\IA2B\Software\1. Halbjahr\C#\2_ConBMI-Rechner\ConBMI-Rechner\obj\Debug\ConBMI-Rechner.exe
+C:\Users\marte\OneDrive - berufskolleg-rheine.de\Schule\IA2B\Software\1. Halbjahr\C#\2_ConBMI-Rechner\ConBMI-Rechner\obj\Debug\ConBMI-Rechner.pdb

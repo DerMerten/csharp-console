@@ -1,0 +1,7 @@
+C:\Users\marte\OneDrive - berufskolleg-rheine.de\Schule\IA2B\Software\1. Halbjahr\C#\ConTest1\ConTest1\bin\Debug\ConTest1.exe.config
+C:\Users\marte\OneDrive - berufskolleg-rheine.de\Schule\IA2B\Software\1. Halbjahr\C#\ConTest1\ConTest1\bin\Debug\ConTest1.exe
+C:\Users\marte\OneDrive - berufskolleg-rheine.de\Schule\IA2B\Software\1. Halbjahr\C#\ConTest1\ConTest1\bin\Debug\ConTest1.pdb
+C:\Users\marte\OneDrive - berufskolleg-rheine.de\Schule\IA2B\Software\1. Halbjahr\C#\ConTest1\ConTest1\obj\Debug\ConTest1.csproj.AssemblyReference.cache
+C:\Users\marte\OneDrive - berufskolleg-rheine.de\Schule\IA2B\Software\1. Halbjahr\C#\ConTest1\ConTest1\obj\Debug\ConTest1.csproj.CoreCompileInputs.cache
+C:\Users\marte\OneDrive - berufskolleg-rheine.de\Schule\IA2B\Software\1. Halbjahr\C#\ConTest1\ConTest1\obj\Debug\ConTest1.exe
+C:\Users\marte\OneDrive - berufskolleg-rheine.de\Schule\IA2B\Software\1. Halbjahr\C#\ConTest1\ConTest1\obj\Debug\ConTest1.pdb
