@@ -1,7 +1,0 @@
-C:\Users\marte\OneDrive - berufskolleg-rheine.de\Schule\IA2B\Software\1. Halbjahr\C#\ConErstesProgrammUeberarbeitet\ConErstesProgrammUeberarbeitet\bin\Debug\ConErstesProgrammUeberarbeitet.exe.config
-C:\Users\marte\OneDrive - berufskolleg-rheine.de\Schule\IA2B\Software\1. Halbjahr\C#\ConErstesProgrammUeberarbeitet\ConErstesProgrammUeberarbeitet\bin\Debug\ConErstesProgrammUeberarbeitet.exe
-C:\Users\marte\OneDrive - berufskolleg-rheine.de\Schule\IA2B\Software\1. Halbjahr\C#\ConErstesProgrammUeberarbeitet\ConErstesProgrammUeberarbeitet\bin\Debug\ConErstesProgrammUeberarbeitet.pdb
-C:\Users\marte\OneDrive - berufskolleg-rheine.de\Schule\IA2B\Software\1. Halbjahr\C#\ConErstesProgrammUeberarbeitet\ConErstesProgrammUeberarbeitet\obj\Debug\ConErstesProgrammUeberarbeitet.csproj.AssemblyReference.cache
-C:\Users\marte\OneDrive - berufskolleg-rheine.de\Schule\IA2B\Software\1. Halbjahr\C#\ConErstesProgrammUeberarbeitet\ConErstesProgrammUeberarbeitet\obj\Debug\ConErstesProgrammUeberarbeitet.csproj.CoreCompileInputs.cache
-C:\Users\marte\OneDrive - berufskolleg-rheine.de\Schule\IA2B\Software\1. Halbjahr\C#\ConErstesProgrammUeberarbeitet\ConErstesProgrammUeberarbeitet\obj\Debug\ConErstesProgrammUeberarbeitet.exe
-C:\Users\marte\OneDrive - berufskolleg-rheine.de\Schule\IA2B\Software\1. Halbjahr\C#\ConErstesProgrammUeberarbeitet\ConErstesProgrammUeberarbeitet\obj\Debug\ConErstesProgrammUeberarbeitet.pdb
