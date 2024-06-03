@@ -1,4 +1,4 @@
-# windows-forms-console
+# csharp-console
 all my console programs in C#
 # Translation
 1. My first program
